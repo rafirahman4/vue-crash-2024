@@ -4,7 +4,7 @@ import { defineProps } from 'vue';
 defineProps({
   bg: {
     type: String,
-    default: 'bg-gray-100',
+    default: 'bg-red-100',
   },
 });
 </script>
